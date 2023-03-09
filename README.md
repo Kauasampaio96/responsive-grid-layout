@@ -23,5 +23,5 @@
 
 <h2>🌐 Hospedagem</h2>
 
-<a href="https://interacao-js-kc.netlify.app/">Acesse</a>
+<a href="https://grid-css-pratice.netlify.app">Acesse</a>
 
