@@ -1,11 +1,6 @@
 <p align="center">
-  <img src="to_readme.png">
+  <img src="to_readme_grid.gif">
 </p>
-
-<p align="center">
-  <img src="to_readme2.png">
-</p>
-
 
 <h2>👨‍💻 Sobre o projeto</h2>
 
